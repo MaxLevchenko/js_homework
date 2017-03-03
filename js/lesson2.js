@@ -49,6 +49,7 @@ function hours(hour, min, second) {
 var a = hours(00, 09, 01);
 setInterval(a, 1000);
 
+
 // 2-й вариант
 //Функция выводит текущее время.(Электронные часы)
 setInterval(function() {
